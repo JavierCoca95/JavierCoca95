@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Javi</h1>
-<h3 align="center">Desarrollador frontend</h3>
+<h3 align="center">Desarrollador</h3>
 
-- 🌱 Adquiriendo habilidades **en Angular**
+- 🌱 Adquiriendo habilidades **en PLCs, HMIs**
 
 - 📫 Contacto: **javiercocamembribes@gmail.com**
 
